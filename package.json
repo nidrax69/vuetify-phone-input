@@ -1,0 +1,35 @@
+{
+  "name": "vuetify-phone-input",
+  "version": "0.0.1",
+  "description": "International PHONE Input with Vue",
+  "authors": [
+    {
+      "name": "Vincent FLORIOT",
+      "email": "v.floriot@hotmail.fr"
+    }
+  ],
+  "main": "dist/mobile-input.js",
+  "license": "MIT",
+  "files": [
+    "dist/"
+  ],
+  "keywords": [
+    "vue",
+    "telephone",
+    "vuetify",
+    "phone",
+    "vuetify-phone-input",
+    "phone input",
+    "telephone input"
+  ],
+  "dependencies": {
+    "get-json": "^1.0.0",
+    "libphonenumber-js": "^0.4.44"
+  },
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.3.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
